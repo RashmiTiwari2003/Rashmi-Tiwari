@@ -1,6 +1,6 @@
 # Hi! My name is Rashmi Tiwari
 
-![hello]()
+![]()
 
 # INTRODUCTION
 Hey, 👋 I am Rashmi Tiwari.
