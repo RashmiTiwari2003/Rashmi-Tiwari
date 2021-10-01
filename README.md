@@ -1,17 +1,17 @@
 # Hi! My name is Rashmi Tiwari
 
-![]()
+![](https://github.com/the-dumbest/DAY3/blob/9fd0d2ad28885573d72eef86b22673f15120e4f5/2000x1125-208831-face-drawing-white-illustration-women-portrait-fantasy-art-fantasy-girl-anime-red-artwork-pink-clothing-flower-girl-beauty-woman-lady-costume-sketch-photo-shoot.jpg)
 
 # INTRODUCTION
 Hey, 👋 I am Rashmi Tiwari.
 
 Born and raised in Kolkata, West Bengal
 
-I am from student at NSEC
+I am a student at NSEC
 
 Pursuing a B.Tech degree in CSE
 
-I am in my 1st year
+I starting my 1st year
 
 ## Basic Information
 **Name** - *Rashmi Tiwari*
@@ -29,12 +29,12 @@ I am in my 1st year
 |3|Python|
 |4|Mysql|
 
-## Hovbbies
+## Hobbies
 - Reading
 - Writing
 - Learning coding stuff
 
-## Language
+## Languages known
 - English
 - Hindi
 - Bengali
